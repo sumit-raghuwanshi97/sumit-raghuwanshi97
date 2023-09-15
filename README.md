@@ -1,14 +1,14 @@
 ## Hi I'M Sumit 👋
 ![1](https://github.com/sumit-raghuwanshi97/sumit-raghuwanshi97/assets/94506472/d5383f53-218c-4cd7-a97b-f654e5a69bba)
 
-### About Me 
+## About Me 
 * Android App Developer
 * Competitive Programmer
 * proficient in C++ and DSA 
 * Databse Technologies - SQL
 * Backend Technologies - Node.js
 
-### Achievements
+## Achievements
 * Among Top 25% on leetcode
 * Finalist Tally Codebrewers 2023
 
