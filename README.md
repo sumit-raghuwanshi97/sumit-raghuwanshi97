@@ -2,7 +2,7 @@
 ![1](https://github.com/sumit-raghuwanshi97/sumit-raghuwanshi97/assets/94506472/d5383f53-218c-4cd7-a97b-f654e5a69bba)
 
 ## About Me 
-* Sde Intern @Tally Solutions , Banglore
+* Sde Intern @Tally Solutions , Banglore - remote
 * Android App Developer (Java + React Native)
 * Backend Developer (Node with javascript/typescript , Web-Sockets(socket.io))
 * Full Stack Development - (MERN)
@@ -18,7 +18,7 @@
 * This internship is not only broadening my technical knowledge but also strengthening my teamwork and communication skills, as we collaborate to create cutting-edge mobile application.
 
 ## Achievements
-* Among Top 25% on leetcode
+* Among Top 20% on leetcode
 * Finalist Tally Codebrewers 2023
 
 ## PERSONAL PROJECTS 
@@ -29,6 +29,11 @@
 *Techologies- Android Studio, Java, XML, Firebase
 
 ### WEB APPLICATIONS
+
+### Campus-Connect
+* I am working on a web platoform for IET-DAVV students to share interview experiences and share resources, fostering a supportive community.
+* The platfrom with interview sharing feature is now live at @ ![1](https://campus-connect-iet.vercel.app)
+* Currently enhancing the platform by implementing a resource section. Students can share study materials, semester-related resources, and insights on placements, creating a centralized hub for efficient resource browsing, saving time for fellow students.
 
 #### REAL TIME SPEED TYPING GAME WORDSRUN )
 * Aspeed typing game application for practicing and competing in real time with single and multiplaver mode
