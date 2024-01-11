@@ -13,9 +13,9 @@
 ## Experience
 
 ### TALLY SOLUTIONS PVT. LTD. | SDE Intern
-• As an SDE Intern, I am actively involved in a dynamic mobile app development project.
-• worked on entire mobile app development lifecycle, overseeing requirements, coding, testing, and deployment for testing.
-• This internship is not only broadening my technical knowledge but also strengthening my teamwork and communication skills, as we collaborate to create cutting-edge mobile application.
+* As an SDE Intern, I am actively involved in a dynamic mobile app development project.
+* worked on entire mobile app development lifecycle, overseeing requirements, coding, testing, and deployment for testing.
+* This internship is not only broadening my technical knowledge but also strengthening my teamwork and communication skills, as we collaborate to create cutting-edge mobile application.
 
 ## Achievements
 * Among Top 25% on leetcode
