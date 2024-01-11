@@ -32,7 +32,7 @@
 
 ### Campus-Connect
 * I am working on a web platoform for IET-DAVV students to share interview experiences and share resources, fostering a supportive community.
-* The platfrom with interview sharing feature is now live at @ ![1](https://campus-connect-iet.vercel.app)
+* The platfrom with interview sharing feature is now live at @ [Campus-Connect](https://campus-connect-iet.vercel.app)
 * Currently enhancing the platform by implementing a resource section. Students can share study materials, semester-related resources, and insights on placements, creating a centralized hub for efficient resource browsing, saving time for fellow students.
 
 #### REAL TIME SPEED TYPING GAME WORDSRUN )
