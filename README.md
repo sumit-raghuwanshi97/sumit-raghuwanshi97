@@ -2,11 +2,20 @@
 ![1](https://github.com/sumit-raghuwanshi97/sumit-raghuwanshi97/assets/94506472/d5383f53-218c-4cd7-a97b-f654e5a69bba)
 
 ## About Me 
-* Android App Developer
+* Sde Intern @Tally Solutions , Banglore
+* Android App Developer (Java + React Native)
+* Backend Developer (Node with javascript/typescript , Web-Sockets(socket.io))
+* Full Stack Development - (MERN)
 * Competitive Programmer
 * proficient in C++ and DSA 
-* Databse Technologies - SQL
-* Backend Technologies - Node.js
+* Databse Technologies - SQL & MongoDB
+
+## Experience
+
+### TALLY SOLUTIONS PVT. LTD. | SDE Intern
+• As an SDE Intern, I am actively involved in a dynamic mobile app development project.
+• worked on entire mobile app development lifecycle, overseeing requirements, coding, testing, and deployment for testing.
+• This internship is not only broadening my technical knowledge but also strengthening my teamwork and communication skills, as we collaborate to create cutting-edge mobile application.
 
 ## Achievements
 * Among Top 25% on leetcode
