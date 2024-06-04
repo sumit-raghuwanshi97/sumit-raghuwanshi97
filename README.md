@@ -35,6 +35,14 @@
 * The platfrom with interview sharing feature is now live at @ [Campus-Connect](https://campus-connect-iet.vercel.app)
 * Currently enhancing the platform by implementing a resource section. Students can share study materials, semester-related resources, and insights on placements, creating a centralized hub for efficient resource browsing, saving time for fellow students.
 
+#### Deployment and Statistics:
+
+* Hosted on Vercel for a reliable and scalable platform.
+* 70+ registered users
+* 20+ shared interview experiences
+
+* We are constantly working to enhance our services. If you encounter any issues, have suggestions for improvements, please reach out through the contact information provided on the website
+
 #### REAL TIME SPEED TYPING GAME WORDSRUN )
 * Aspeed typing game application for practicing and competing in real time with single and multiplaver mode
 *The Architecture of the Application is developed keeping in mind the scalability of the application to handle a large number of user
