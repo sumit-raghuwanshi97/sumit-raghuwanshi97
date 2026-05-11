@@ -2,8 +2,10 @@
 ![1](https://github.com/sumit-raghuwanshi97/sumit-raghuwanshi97/assets/94506472/d5383f53-218c-4cd7-a97b-f654e5a69bba)
 
 ## About Me 
-* Former Sde Intern @Tally Solutions , Banglore - remote
-* Android App Developer (Java + React Native)
+* SDE @TallyS Solutions Pvt. Ltd, Bangalore - Hybrid
+* Building CampusIRA
+* Flutter · React · AWS (Lambda, SQS) · AI 
+* Android App Developer (Flutter + Java + React Native)
 * Backend Developer (Node with javascript/typescript , Web-Sockets(socket.io))
 * Full Stack Development - (MERN)
 * Competitive Programmer
