@@ -2,7 +2,7 @@
 ![1](https://github.com/sumit-raghuwanshi97/sumit-raghuwanshi97/assets/94506472/d5383f53-218c-4cd7-a97b-f654e5a69bba)
 
 ## About Me 
-* SDE @TallyS Solutions Pvt. Ltd, Bangalore - Hybrid
+* SDE @Tally Solutions Pvt. Ltd, Bangalore - Hybrid
 * Building CampusIRA
 * Flutter · React · AWS (Lambda, SQS) · AI 
 * Android App Developer (Flutter + Java + React Native)
